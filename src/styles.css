@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.progress-container {
+  height: 20px;
+  background-color: blue;
+  margin: 5px;
+}
+
+.progress-controller-button {
+  margin-top: 20px;
+  float: left;
+}
